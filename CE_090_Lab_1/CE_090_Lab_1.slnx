@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Basic_Calculator/Basic_Calculator.csproj" Id="d0b62fc9-a88c-45a3-92dc-f9332fc48a27" />
+  <Project Path="grade_calculation/grade_calculation.csproj" />
+  <Project Path="Guessing_Game/Guessing_Game.csproj" Id="1b5bca30-2516-4084-89bf-510331f17d8e" />
+</Solution>
