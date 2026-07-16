@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Browser_Simulation/Browser_Simulation.csproj" />
+  <Project Path="Collection_Demonstration/Collection_Demonstration.csproj" />
+  <Project Path="Frequency_Count/Frequency_Count.csproj" />
+  <Project Path="Student_Manager/Student_Manager.csproj" />
+</Solution>
