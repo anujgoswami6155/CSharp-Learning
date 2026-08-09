@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Person_Class_Inheritance_Polymorphism/Person_Class_Inheritance_Polymorphism.csproj" />
+  <Project Path="Shape_Abstraction/Shape_Abstraction.csproj" />
+  <Project Path="Student_Manager_Encapsulation/Student_Manager_Encapsulation.csproj" />
+  <Project Path="Student_Manager_with_OOP/Student_Manager_with_OOP.csproj" />
+  <Project Path="WebApplication1/WebApplication1.csproj" Id="dc844b83-d779-4e8c-bc91-683161807fb8" />
+</Solution>
